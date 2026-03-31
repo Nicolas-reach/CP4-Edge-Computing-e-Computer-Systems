@@ -150,7 +150,7 @@ const int default_D4 = 2;                        // Pino do LED onboard
  
 ## 🧪 Simulação (Wokwi)
  
-1. Acesse [wokwi.com](https://wokwi.com)
+1. Acesse [wokwi.com]([https://wokwi.com](https://wokwi.com/projects/459965383796606977))
 2. Crie um novo projeto com **ESP32**
 3. Adicione o componente **LDR** conectado ao pino analógico (GPIO34)
 4. Cole o código do ESP32
